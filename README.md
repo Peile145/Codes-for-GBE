@@ -14,3 +14,4 @@ Code for example 3: Phase II monitoring of Example 3
 Raw dataset for example 1: SMS1  
 Raw dataset for example 2: DRS1  
 Raw dataset for example 3: CCF1  
+The code for the two-dimensional Kolmogorov-Smirnov test can be downloaded at: https://doi.org/10.1016/j.cie.2022.108215.
