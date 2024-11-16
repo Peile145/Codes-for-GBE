@@ -1,6 +1,8 @@
 # Codes-for-GBE
-The relevant R software codes for monitoring the GBE distribution are provided. The corresponding file name of the monitoring scheme is as follows：
-MCUSUM chart：MCUSUM for GBE
+The relevant R software codes for monitoring the GBE distribution are provided. The corresponding file name of the monitoring scheme is as follows：  
+
+MCUSUM chart：MCUSUM for GBE  
+
 MEWMA chart: MEWMA for GBE
 GBE-EWMA-TS-1 scheme: two-sided EWMA for scheme 1
 GBE-EWMA-TS-2 scheme: two-sided EWMA for scheme 2
